@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=IBM+Plex+Sans+Condensed:wght@300&display=swap');
+
+body{
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+    font-family: 'Caveat', cursive;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    border: black solid 2px;
+     padding: 10px;
+     padding-top: 30px;
+     width: 80vw;
+     margin:auto;
+     
+}
+
